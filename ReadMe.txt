@@ -1,9 +1,9 @@
-It'a simple android studio project so just need to the imort project.
+It'a simple android studio project so just need to  import the project.
 
 Points:
 there are three packages for java :
 - bean - it contain the bookbean which is serializable class for book object where title = booktitle, imageURL = book image, and author= author name if it has.
-- adapter - to bind boolist to the listview
+- adapter - to bind book list to the listview
 - downloader - asynctask to get the json.
 
 1> For Image Download I used Picasso .
